@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Latihan VB.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Latihan_VB.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Latihan_VB.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Latihan VB.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\bin\Debug\Calculator Ad.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\bin\Debug\Calculator Ad.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\bin\Debug\Calculator Ad.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\bin\Debug\Calculator Ad.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Latihan_VB.frmSplash.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Calculator Ad.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Calculator Ad.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Calculator Ad.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Latihan VB\Latihan VB\obj\Debug\Latihan_VB.frmAbout.resources

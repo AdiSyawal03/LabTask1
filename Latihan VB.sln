@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Latihan VB", "Latihan VB\Latihan VB.vbproj", "{F1E213DF-0E6B-4493-9ED9-0F76A97C82BA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "testingVb", "testingVb\testingVb.vdproj", "{E1631A14-699D-47B3-A3C5-1E6BC4301C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E213DF-0E6B-4493-9ED9-0F76A97C82BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E213DF-0E6B-4493-9ED9-0F76A97C82BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E213DF-0E6B-4493-9ED9-0F76A97C82BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E213DF-0E6B-4493-9ED9-0F76A97C82BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1631A14-699D-47B3-A3C5-1E6BC4301C4E}.Debug|Any CPU.ActiveCfg = Debug
+		{E1631A14-699D-47B3-A3C5-1E6BC4301C4E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
